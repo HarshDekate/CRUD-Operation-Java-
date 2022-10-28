@@ -11,14 +11,21 @@ Clone Repository
 
 git clone https://github.com/HarshDekate/CRUD-Operation-Java-.git
 
+
+
 InstallE STS with Eclipse IDE for Java EE Developers.
+
 
 Edit Database configure file with your details (DBUtil file)
 
 Import SQL query to your database
 
 Name your Schema that suits your Database Config
+![mysql1](https://user-images.githubusercontent.com/116677291/198723400-719e5a0e-24d6-4d9e-8ad4-41e3d4a14476.png)
+
 Configure the IDE with Tomcat and RUN
 
 programming language: java
+
+
 Database: MySql 
