@@ -13,7 +13,7 @@ git clone https://github.com/HarshDekate/CRUD-Operation-Java-.git
 
 
 
-InstallE STS with Eclipse IDE for Java EE Developers.
+InstallE STS (Spring Tool Suite)
 
 
 Edit Database configure file with your details (DBUtil file)
