@@ -26,5 +26,9 @@ Name your Schema that suits your Database Config
 Configure the IDE with Tomcat and RUN
 
 programming language: java
+
+
 Front end: HTML, CSS, BootStrap
+
+
 Database: MySql 
